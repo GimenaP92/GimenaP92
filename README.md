@@ -3,7 +3,7 @@
 
 ---
 
-## 🧑‍🎨 **Sobre mí**  
+##  🧑‍🎨 **Sobre mí**  
 Aunque mi formación inicial es como **Licenciada en Kinesiología y Fisiatría**, descubrí que mi verdadera pasión está en la **programación**. La experiencia previa me brindó habilidades clave como:  
 - Empatía y trato con las personas  
 - Paciencia y comunicación efectiva  
@@ -24,16 +24,13 @@ Aunque mi formación inicial es como **Licenciada en Kinesiología y Fisiatría*
 ### 🐾 **E-commerce de Productos para Mascotas**  
 En mi proyecto final del bootcamp de **SoyHenry**, desarrollamos en grupo un **e-commerce** enfocado en la venta de productos para mascotas. Este proyecto también incluía un **sistema adicional para la gestión de turnos** de peluquería.
 
-**Mi aporte:**  
-- **Frontend:** Formularios de registro y login de usuario  
+**Mi aporte desde el Frontend:**  
+- **Usuario:** Formularios de registro y login de usuario, turnos de usuarios con posibilidad de cancelación.
 - **Gestión de Turnos:** Desarrollo de funcionalidades para crear y cancelar turnos  
 - **Dashboard Administrativo:**  
   - Vista exclusiva para administradores con la opción de cargar, modificar y eliminar productos  
   - Gestión de pedidos y visualización de órdenes  
   - Gestión de usuarios registrados en la base de datos, con opción de eliminar o registrar nuevos administradores  
-
-➡️ Puedes explorar más de mi trabajo aquí:  
-[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GimenaP92)  
 
 ---
 
