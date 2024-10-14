@@ -1,11 +1,11 @@
 👋 ¡Hola! Soy Gimena
 🚀 Full Stack Developer con preferencia hacia el frontend
 
-## 🧑‍🎨 **Sobre mí**  
+ 🧑‍🎨 Sobre mí
 Aunque mi formación inicial es como Licenciada en Kinesiología y Fisiatría, descubrí que mi verdadera pasión está en la **programación**. La experiencia previa me brindó habilidades clave como:  
-- **Empatía y trato con las personas**  
-- **Paciencia y comunicación efectiva**  
-- **Gestión del tiempo y organización**  
+- Empatía y trato con las personas
+- Paciencia y comunicación efectiva
+- Gestión del tiempo y organización
 
 🛠️ Tecnologías y Herramientas
 Frontend: Next.js, React, TypeScript, JavaScript
