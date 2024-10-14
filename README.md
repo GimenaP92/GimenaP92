@@ -1,16 +1,38 @@
-## Hi there 👋
+👋 ¡Hola! Soy Gimena
+🚀 Full Stack Developer con preferencia hacia el frontend
 
-<!--
-**GimenaP92/GimenaP92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tecnologías y Herramientas
+Frontend: Next.js, React, TypeScript, JavaScript
+Backend: Express, Node.js
+Bases de Datos: PostgreSQL, MongoDB, Mongoose
+Control de versiones: Git, GitHub
+Herramientas y Servicios: NPM, Vercel, Cloudinary, Figma
 
-Here are some ideas to get you started:
+💼 Proyectos Relevantes
+🐾 E-commerce de Productos para Mascotas
+En mi proyecto final del bootcamp de SoyHenry, desarrollamos en grupo un e-commerce enfocado en la venta de productos para mascotas. Este proyecto también incluía un sistema adicional para la gestión de turnos de peluquería.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mi aporte:
+
+Frontend: Formularios de registro y login de usuario
+Gestión de Turnos: Desarrollo de funcionalidades para crear y cancelar turnos
+Dashboard Administrativo:
+Vista exclusiva para administradores con la opción de cargar, modificar y eliminar productos
+Gestión de pedidos y visualización de órdenes
+Gestión de usuarios registrados en la base de datos, con opción de eliminar o registrar nuevos administradores
+Puedes explorar más de mi trabajo aquí:
+
+🌱 Educación y Certificaciones
+Bootcamp Full Stack Developer - SoyHenry (Finalizado)
+🌍 Idiomas
+Español: Nativo
+Inglés: Nivel A2
+🤝 Habilidades Blandas (Soft Skills)
+Comunicación efectiva
+Resolución de conflictos
+Creatividad
+Gestión del tiempo
+
+📧 Correo: gimenapascuale@gmail.com
+
+¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o nuevas oportunidades 🚀
