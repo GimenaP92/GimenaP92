@@ -33,6 +33,9 @@ Resolución de conflictos
 Creatividad
 Gestión del tiempo
 
-📧 Correo: gimenapascuale@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gimena-pascuale)  
+[![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GimenaP92)  
+📧 **Correo**: [gimenapascuale@gmail.com](mailto:gimenapascuale@gmail.com)
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o nuevas oportunidades 🚀
