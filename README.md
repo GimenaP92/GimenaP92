@@ -59,7 +59,7 @@ En mi proyecto final del bootcamp de **SoyHenry**, desarrollamos en grupo un **e
 📧 **Correo:** [gimenapascuale@gmail.com](mailto:gimenapascuale@gmail.com)  
 
 ---
-🌐 Portfolio en Vercel: [Visita mi portfolio aquí](https://portfolio-q30rti06k-gimenas-projects-7932c636.vercel.app/)  
+🌐 Portfolio en Vercel: [Visita mi portfolio aquí](https://portfolio-q30rti06k-gimenas-projects-7932c636.vercel.app/](https://portfolio-phi-snowy-85.vercel.app/)
 
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para colaboraciones o nuevas oportunidades 🚀  
